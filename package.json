@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "twitterschrma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
